@@ -1,0 +1,53 @@
+.icons-footer {
+  position: absolute;
+  width: 318px;
+  height: 60px;
+  left: 180px;
+  top: 820px;
+  background-color: #161619;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.twitter {
+  position: absolute;
+  left: 15.36%;
+  right: 61.09%;
+  top: 30.75%;
+  bottom: 7.37%;
+  width: 25px;
+  height: 25px;
+  background: #918e9b;
+}
+
+.facebook {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 37.27%;
+  right: 52.18%;
+  top: 30.75%;
+  bottom: 7.37%;
+  background: #918e9b;
+}
+
+.instagram {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 58.18%;
+  right: 43.27%;
+  top: 30.75%;
+  bottom: 7.37%;
+  background: #918e9b;
+}
+
+.github {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 79%;
+  right: 100.45%;
+  top: 30.75%;
+  bottom: 7.32%;
+  background: #918e9b;
+}
